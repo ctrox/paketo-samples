@@ -14,5 +14,7 @@
         print($ext . "\n");
     }
 ?>
+
+  <p>This is a newly added line.</p>
   </body>
 </html>
